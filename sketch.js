@@ -1,6 +1,6 @@
 var y=0,m=0,d=0,h=0,m=0,s=0;
 var daysInMonth = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
-var targetDate = [2019, 11, 1, 22, 30, 0];
+var targetDate = [2020, 2, 14, 22, 30, 0];
 var timeLeft = [];
 var balls = [];
 
